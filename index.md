@@ -37,4 +37,4 @@ While each tool on our list brings its own strengths to the table, [Girlify AI](
 - **Flexible Use Cases:** Whether you’re curating content for personal enjoyment or professional marketing, Girlify AI is designed to save you time and effort.
 - **Innovative Visual Creation:** Stay ahead of the trends by leveraging a tool built for seamless, high-impact visual style creation.
 
-Explore the realm of AI-powered style transformation with [Girlify AI](https://girlify.ai) and elevate your visual storytelling today!
+Explore the realm of AI-powered style transformation with [Girlify AI](https://girlify.ai/) and elevate your visual storytelling today!
