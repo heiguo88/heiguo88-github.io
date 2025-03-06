@@ -8,7 +8,7 @@ In today’s digital age, AI-driven creativity is revolutionizing the photograph
 
 ## 2. Spotlight: Girlify AI – Your Ultimate AI Girl Generator
 
-Meet [Girlify AI](https://girlify.ai), a groundbreaking website dedicated to the concept of AI Girl Generation. Girlify AI offers a simple yet powerful tool that allows you to easily transform your photos into stunning, style-specific images:
+Meet [Girlify AI](https://girlify.ai/), a groundbreaking website dedicated to the concept of AI Girl Generation. Girlify AI offers a simple yet powerful tool that allows you to easily transform your photos into stunning, style-specific images:
 
 - **User-Friendly Experience:** Upload a clear, frontal photo of yourself along with the reference style image you like. Whether you use your own template or choose from the integrated options, the process is straightforward.
 - **Instant Transformation:** Tired of trying to find the right way to capture the perfect look? With Girlify AI, simply provide a reference, and watch as your photo is quickly converted into the desired style.
@@ -31,7 +31,7 @@ Girlify AI’s straightforward approach and powerful features make it an indispe
 
 ## Embrace the Future with Girlify AI
 
-While each tool on our list brings its own strengths to the table, [Girlify AI](https://girlify.ai) stands out with its focus on effortless style replication through its unique AI Girl Generator concept. Here’s why it could be the perfect addition to your digital toolkit:
+While each tool on our list brings its own strengths to the table, [Girlify AI](https://girlify.ai/) stands out with its focus on effortless style replication through its unique AI Girl Generator concept. Here’s why it could be the perfect addition to your digital toolkit:
 
 - **Simplicity and Speed:** No complicated prompt engineering or lengthy processes—just upload your images and let the transformation happen.
 - **Flexible Use Cases:** Whether you’re curating content for personal enjoyment or professional marketing, Girlify AI is designed to save you time and effort.
